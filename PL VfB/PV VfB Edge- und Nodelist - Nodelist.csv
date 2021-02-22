@@ -1,0 +1,23 @@
+id,name,type,age,function,representation,position
+TH,Thomas Hitzlsperger,0,38,V,Sport,Vorsitz
+TK,Tobias Keller,0,NA,V,Finanzen,Interimsvorsitz
+OS,Oliver Schraft,0,53,V,Kommunikation,Mitglied Geschäftsleitung
+CV,Claus Vogt,0,51,A,Politik,Vorsitz Aufsichtsrat
+WP,Wilfried Porth,0,62,A,Politik,Stellvertreter Vorsitz Aufsichtsrat
+RA,Rainer Adrion,0,67,A,Politik,Mitglied Aufsichtsrat
+HJ,Hartmut Jenner,0,55,A,Politik,Mitglied Aufsichtsrat
+FR,Franz Reiner,0,53,A,Finanzen,Mitglied Aufsichtsrat
+BS,Dr. Betram Sugg,0,55,A,Politik,Mitglied Aufsichtsrat
+V,VfB,1,NA,NA,NA,NA
+BMH,Bundesstiftung Magnus Hirschfeld,1,NA,NA,NA,NA
+DAFK,Deutsche Akademie für Fussball-Kultur,1,NA,NA,NA,NA
+IG,Intesia Group,1,NA,NA,NA,NA
+FCPF,FC PlayFair,1,NA,NA,NA,NA
+D,Daimler AG,1,NA,NA,NA,NA
+MB,Mercedes Benz AG,1,NA,NA,NA,NA
+HMSS,Hanns Martin Schleyer-Stiftung,1,NA,NA,NA,NA
+SWM,Suedwestmetall,1,NA,NA,NA,NA
+11,11hilft e. V.,1,NA,NA,NA,NA
+K,Kaercher,1,NA,NA,NA,NA
+FCG,Fanclub Courage Gerlingen,1,NA,NA,NA,NA
+RB,Robert Bosch,1,NA,NA,NA,NA
