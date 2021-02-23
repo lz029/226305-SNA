@@ -51,8 +51,7 @@ AR = Aufsichtsrat
 Gibt das Arbeitsfeld innerhalb der VfB-Gremien an, soweit bekannt. Jeweils die ersten drei Buchstaben der Arbeitsfelder stehen für das ganze Wort:     
 spo = Sport     
 fin = Finanzen   
-kom = Kommunikation   
-pol = Politik   
+kom = Kommunikation     
   
 **position**    
 Gibt die Position innerhalb der VfB-Organisation an.
