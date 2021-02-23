@@ -3,16 +3,16 @@ Codebuch Stand 2021-02-22
 erstellt von Lioba Zangenfeind (lz029@hdm-stuttgart.de)
 
 ## Inhalt
-- Edges.csv (Edgelist)
-- Nodes.csv (Nodelist)
-- Codebuch.rm (Codierung der Datensätze)
+- PV-VfB-Edgelist.csv (Edgelist)
+- PV-VfB-Nodelist (Nodelist)
+- PV-VfB-Codebuch.rm (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
 Der Datensatz wurde durch Recherche der VfB-Vorstands- und Aufsichtsrats-Mitglieder und deren Verbindungen zu anderen Organisationen erhoben. Primäre Quelle dafür war https://www.vfb.de/de/1893/club/vfb-ag/organe-der-vfb-ag/
 
 Das Netzwerk ist ein *ungerichtetes two-mode Netzwerk*, denn es geht sowohl um Personen als auch Organisationen.
 
-**Netzwerk vfb**  
+**Netzwerk VfB**  
 Alle aktiven Mitgliedschaften der Personen im Netzwerk
 
 
