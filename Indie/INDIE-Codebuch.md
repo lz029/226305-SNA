@@ -6,9 +6,9 @@ erstellt von Gruppe Indie (ss502@hdm-stuttgart.de)
 Verbindungen von Indie-Bands 2015-2020
 
 ## Inhalt
-- Indie-Edgelist.csv (Edgelist)
-- Indie-Nodelist.csv (Nodelist)
-- Indie-Codebuch.rm (Codierung der Datensätze)
+- INDIE-Edgelist.csv (Edgelist)
+- INDIE-Nodelist.csv (Nodelist)
+- INDIE-Codebuch.rm (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
 
