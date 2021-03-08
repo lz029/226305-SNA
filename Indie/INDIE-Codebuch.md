@@ -1,4 +1,4 @@
-# Datensatz Indie-Kollaborationen #
+# Netzwerk Indie-Kollaborationen #
 Codebuch Stand 2021-03-08   
 erstellt von Gruppe Indie (ss502@hdm-stuttgart.de)
 
