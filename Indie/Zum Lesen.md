@@ -44,16 +44,16 @@ In Deutschland haben sich sogenannte Independent Labels, kurz: Indie-Labels, auf
  
 Bei unserer Recherche ist uns kein ähnliches oder vergleichbares Netzwerk aufgefallen, mit dem wir unsere Forschung hätten vergleichen oder an die wir hätten anknüpfen können.
  
-Im Zuge dieser Netzwerkanalyse werden wir die Verbindungen deutscher Indie-Bands in den Jahren von 2015 bis 2020 untersuchen und auf verschiedene Forschungsfragen eingehen. All diesen wollen wir aber eine Forschungsfrage überordnen: **Wie sind deutsche Indie-Bands miteinander vernetzt?**
+Im Zuge dieser Netzwerkanalyse werden wir die Verbindungen deutscher Indie-Bands in den Jahren von 2015 bis 2020 untersuchen und auf verschiedene Forschungsfragen eingehen. All diesen wollen wir aber eine Forschungsfrage überordnen: *Wie sind deutsche Indie-Bands miteinander vernetzt?*
 
 ## 2.2 Arbeitshypothesen
 Wir gehen von folgenden Arbeitshypothesen aus:
 
-a) Auftritte: Akteur:innen, die oft auf den gleichen Festivals aufgetreten sind, haben eher ein gemeinsames Feature und haben eher gemeinsame Auftritte oder sind die Vorband des:r jeweils anderen Akteur:in.
-b) Zusammenarbeit: Akteur:innen, die das gleiche Musiklabel haben (relation=2), haben auch öfter auf den gleichen Festivals gespielt (relation=1).
-c) Vernetzung: Akteur:innen, die viele Instagram-Follower:innen und Spotify-Hörer:innen haben sind auch gut mit anderen Akteur:innen vernetzt.
-d) Durch den zeitliche Verlauf wollen wir die Entwicklung der Vernetzung des Gesamtneztwerkes aufzeigen. Anhand dessen könnten auch einzelne Akteur:innen herausstechen, die sich über die Jahre besser vernetzt haben.
-e) Wir wollen drei Bands auswählen, die an unserem Stichtag, dem 07.03.2021, die meisten Spotify-Hörer:innen hatten. Die Vermutung liegt nahe, dass die Vernetzung dieser Bands in den Jahren von 2015 bis 2020 gestiegen ist.
+a) Auftritte: Akteur:innen, die oft auf den gleichen Festivals aufgetreten sind, haben eher ein gemeinsames Feature und haben eher gemeinsame Auftritte oder sind die Vorband des:r jeweils anderen Akteur:in. 
+b) Zusammenarbeit: Akteur:innen, die das gleiche Musiklabel haben (relation=2), haben auch öfter auf den gleichen Festivals gespielt (relation=1). 
+c) Vernetzung: Akteur:innen, die viele Instagram-Follower:innen und Spotify-Hörer:innen haben sind auch gut mit anderen Akteur:innen vernetzt. 
+d) Durch den zeitliche Verlauf wollen wir die Entwicklung der Vernetzung des Gesamtneztwerkes aufzeigen. Anhand dessen könnten auch einzelne Akteur:innen herausstechen, die sich über die Jahre besser vernetzt haben. 
+e) Wir wollen drei Bands auswählen, die an unserem Stichtag, dem 07.03.2021, die meisten Spotify-Hörer:innen hatten. Die Vermutung liegt nahe, dass die Vernetzung dieser Bands in den Jahren von 2015 bis 2020 gestiegen ist. 
 
 Diese Arbeitshypothesen werden im Folgenden durch die Analyse des Netzwerks untersucht und entweder bestätigt oder widerlegt.
 
