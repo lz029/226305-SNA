@@ -20,14 +20,14 @@ Das Netzwerk ist ein *ungerichtetes one-mode Akteursnetzwerk*.
 
 **id**  
 (eindeutige Codierung des Knoten)   
-codiert nach den ersten vier Buchstaben der Künstler_innen und Bands, jede ID entspricht einem/einer Künstler_in bzw. Band
+codiert nach den ersten vier Buchstaben der Künstler:innen und Bands, jede ID entspricht einem/einer Künstler:in bzw. Band
 
 **weight**  
 Beziehungsstärke   
 4 = Feature (Gemeinsamer Song)  
 3 = Gemeinsam auf Tour / gemeinsame Auftritte / Support  
 2 = gemeinsames Musiklabel  
-1 = Auf dem selben Festival  
+1 = Selbes Festival  
 
 **time**  
 Jahreszahl der Kooperation als YYYY
@@ -44,19 +44,19 @@ Art der Kooperation
 Identische ID wie aus der Edgelist zur Identifikation der Knoten
 
 **name**  
-Name des/der Künstler_in bzw. Band
+Name des/der Künstler:in bzw. Band
 
 **personen**  
 Anzahl der Mitglieder
 
 **musiklabel**  
-Aktuelles und frühere Musiklabel der Band bzw. Künster_in
+Aktuelles und frühere Musiklabel der Band bzw. Künster:in
 
 **instagram**  
-Anzahl der Instagram-Follower_innen zum Stichtag 07.03.2021 in Tausenden
+Anzahl der Instagram-Follower:innen zum Stichtag 07.03.2021 in Tausend
 
 **spotify**  
-Monatliche Hörer_innen auf Spotify zum Stichtag 07.03.2021 in Tausenden
+Monatliche Hörer:innen auf Spotify zum Stichtag 07.03.2021 in Tausend
 
 ##
 
