@@ -1082,6 +1082,8 @@ https://www.youtube.com/watch?v=N0SyR3hFBVw
 https://www.youtube.com/watch?v=STww9lKQXTg
 https://zipser.at/blog/donaukanaltreiben/
 
+
+
 # 7. Codebuch
 
 ```{r Übersicht Netzwerkattribute}
