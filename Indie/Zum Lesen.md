@@ -22,7 +22,7 @@ _Anmerkung 1_: Wir werden in unserem Forschungsbericht teilweise die Netzwerke n
 
 # 1. Einleitung
 Im folgenden Forschungsbericht werden wir Verbindung deutscher Indie-Bands in den Jahren von 2015 bis 2020 untersuchen. 
-Dabei haben wir in den letzten Jahren die fünf größten Festivals (Southside, Rock am Ring, Fusion, Juicy Beats), in denen auch die Musikrichtung Indie vertreten ist, genauer untersucht und anhand derer 35 Akteure ausgewählt. Bei der Festivalauswahl haben wir darauf geachtet, dass sie kostenpflichtig sind, um nicht im Nachhinein zu kleine Indie-Bands aussortieren zu müssen. Durch dieses Ausschlusskriterium ist beispielsweise das Festival Bochum Total nicht berücksichtigt worden.
+Dabei haben wir die in den letzten Jahren größten Festivals (Southside, Rock am Ring, Fusion, Juicy Beats), in denen auch die Musikrichtung Indie vertreten ist, genauer untersucht und anhand derer 35 Akteure ausgewählt. Bei der Festivalauswahl haben wir darauf geachtet, dass sie kostenpflichtig sind, um nicht im Nachhinein zu kleine Indie-Bands aussortieren zu müssen. Durch dieses Ausschlusskriterium ist beispielsweise das Festival Bochum Total nicht berücksichtigt worden.
 
 Die ausgewählten 35 Akteur:innen haben wir daraufhin untersucht, ob zwei Künstler:innen gemeinsam bei einem Festival aufgetreten sind (relation=1), ein gemeinsames Musiklabel haben (relation=2), gemeinsam auf Tour gegangen sind oder Auftritte zusammen gehabt haben (relation=3) und ob sie ein gemeinsames Feature produziert haben (relation=4). 
 Anhand der erhobenen Daten wollen wir nun die Vernetzung der einzelnen Akteur:innen genauer beleuchten. Dabei gehen wir auf die Fragen ein, ob es einen Zusammenhang zwischen gemeinsamen Features der Künstler:innen und den Auftritten auf Festivals gibt, ob das Musiklabel Einfluss auf Festivalauftritte hat, ob Künstler:innen mit mehr Spotify-Hörer:innen / Instagram-Follower:innen auch besser vernetzt sind und welche Ergebnisse die zeitliche Entwicklungen zeigen.
@@ -30,8 +30,21 @@ Anhand der erhobenen Daten wollen wir nun die Vernetzung der einzelnen Akteur:in
 
 # 2. Vorarbeiten und vergleichbare Studien
 ## 2.1 Forschungsstand
-noch einfügen
-
+In Deutschland gehört die Musikwirtschaft mit zu den größten Wirtschaftsbranchen. Die Bruttowertschöpfung der Musikwirtschaftsbranche ist höher als die der Filmwirtschaft, Hörfunkveranstalter:innen, der Buchverlage, Zeitschriftenverlage oder Zeitungsverlage. Nur die Fernsehveranstalter verzeichnen eine höhere Wertschöpfung (vgl. Bundesverband der Konzert und Veranstaltungswirtschaft, 2020).
+ 
+Im Jahr 2020  sah das allerdings anders aus, da wegen der Corona-Pandemie alle Festivals und die meisten Konzerte abgesagt wurden. Statt aber diesen nachzutrauern, ruft die Chemnitzer Band Blond eine „virtuelle Cypher“ (vgl. Musik3000, 2020, Abs. 1) mit dem Song „Sanifair Millionär“ ins Leben. Die Band interpretiert ihren eigenen Hit neu und lädt bekannte Feature-Gäste ein. Mit dabei sind vor allem Künstler:innen aus der deutschen Indie Szene wie Kummer, Drangsal und Von Wegen Lisbeth. Der Song wurde am 17.07.2020 veröffentlicht und bringt 17 Indie-Bands zusammen (vgl. Musik3000, 2020). Inspiriert durch diesen  Feature-Song  wollten wir uns die deutsche Indie-Szene und die Verknüpfung der Künstler:innen genauer anschauen.
+ 
+Genres verschmelzen auch in Deutschland immer mehr. Verschiedene Künstler:innen produzieren Genre-übergreifende Features und so entstehen wiederum neue Genres wie „Indie-Pop“ oder „Indie-Rock“ (Winkler, 2020). Uns stellt sich die Frage: Gibt es auch innerhalb eines Genres, in unserem Fall des Indie-Genres, viele Kollaborationen?
+ 
+Eine weitere Frage, die sich bei Kollaborationen aufdrängt: Wie kommt es überhaupt dazu, dass gewisse Künstler:innen gemeinsame Features aufnehmen? Showcase Festivals bieten beispielsweise für neue Bands und Musiker:innen die Möglichkeit vor fachkundigem Publikum aufzutreten und so den Bekanntheitsgrad zu erhöhen. Diese Art von Festivals verbindet Musikfestival und Branchentreff. Durch die Anwesenheit von Veranstalter:innen, Plattenlabels, Journalist:innen und anderen Musikschaffenden ist es leicht, neue Kontakte zu knüpfen (vgl. Nagel, 2019). Somit können Festivals die Grundlage sein, für spätere gemeinsame Songs oder das Begleiten der jeweiligen anderen Musiker:innen als Vorband.
+ 
+Soziale Netzwerke wie Instagram schaffen eine exklusive Nähe – auf der einen Seite zu den Follower:innen und auf der anderen Seite zu anderen Musikschaffenden. Sie sind wie eine weitere Bühne, auf denen sich Musiker:innen präsentieren, um ihre Bekanntheit zu steigern (vgl. Noka, 2019). Musiker:innen können durch die sozialen Netzwerke unabhängiger von Labels agieren, eine eigene Fangemeinde aufbauen, sich mit anderen Künstler:innen vernetzen und über digitale Medien, gemeinsam Musik machen (vgl. Schöbel, 2016). Vor allem Instagram eignet sich, um mit Fans und anderen Musiker:innen in Kontakt zu treten, neue Musik anzukündigen, eigene Musik zu verkaufen, auf Festivals aufmerksam zu machen und insgesamt an Bekanntheit zu gewinnen (vgl. Seawood, 2016). Somit liegt auch die Vermutung nahe, dass Musiker:innen, die besonders aktiv in den sozialen Netzwerken sind, auch gute Vernetzungen zu anderen Musikschaffenden haben.
+ 
+In Deutschland haben sich sogenannte Independent Labels, kurz: Indie-Labels, auf dem Musikmarkt etabliert. Diese können einen stetigen Zuwachs verzeichnen. Viele Indie-Labels entstehen, da Bands ihre Selbstbestimmung behalten wollen und große Labels meist an Nischenpublikum kein Interesse haben. So nehmen viele Musiker:innen ihr Anliegen selbst in die Hand und gründen eigenen Labels (vgl. Goethe Institut, 2016). Bei unserer Netzwerkanalyse wollen wir auch untersuchen, ob es unter den Akteuren gleiche Labels gibt und somit eine Vernetzung besteht, oder ob innerhalb des Indie-Genres die einzelnen Musiker:innen dazu tendieren ihre eigenen Labels zu haben.  
+ 
+Bei unserer Recherche ist uns kein ähnliches oder vergleichbares Netzwerk aufgefallen, mit dem wir unsere Forschung hätten vergleichen oder an die wir hätten anknüpfen können.
+ 
+Im Zuge dieser Netzwerkanalyse werden wir die Verbindungen deutscher Indie-Bands in den Jahren von 2015 bis 2020 untersuchen und auf verschiedene Forschungsfragen eingehen. All diesen wollen wir aber eine Forschungsfrage überordnen: **Wie sind deutsche Indie-Bands miteinander vernetzt?**
 
 ## 2.2 Arbeitshypothesen
 Wir gehen von folgenden Arbeitshypothesen aus:
