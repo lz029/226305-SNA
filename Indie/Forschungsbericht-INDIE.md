@@ -20,72 +20,42 @@ editor_options:
     wrap: sentence
 ---
 
-*Anmerkung*: Wir werden in unserem Forschungsbericht teilweise die Netzwerke neu erstellen und einlesen, damit die Datenbasis immer klar ist.
-Somit können wir in den einzelnen Teilnetzwerken sicherstellen, dass nur aktuelle Werte erfasst werden.
+*Anmerkung*: Wir werden in unserem Forschungsbericht teilweise die Netzwerke neu erstellen und einlesen, damit die Datenbasis immer klar ist. Somit können wir in den einzelnen Teilnetzwerken sicherstellen, dass nur aktuelle Werte erfasst werden.
 
-__Abstract und Keywords__
-Gegenstand dieser Forschungsarbeit ist ein ungerichtetes One-Mode-Netzwerk, das die Beziehungen von 35 Akteuren in Form von Musiker:innen und Bands aus der Indie-Szene illustriert und in Zusammenhang stellt. 
-Dabei untersucht wurden die Beziehungen dieser Akteure hinsichtlich gemeinsamer Auftritte auf Festivals, gemeinsamer Labels, gemeinsamer Tour- und Support-Auftritte sowie gemeinsamer Feature-Songs in den Jahren 2015 bis 2020. Darüber hinaus wurde das Netzwerk auf die einzelnen Arten der Beziehungen geprüft, alle sechs berücksichtigten Jahre wurden miteinander verglichen und der besonders auffällige Akteur Von Wegen Lisbeth wurde gesondert analysiert.
+**Abstract und Keywords**
+
+Gegenstand dieser Forschungsarbeit ist ein ungerichtetes One-Mode-Netzwerk, das die Beziehungen von 35 Akteuren in Form von Musiker:innen und Bands aus der Indie-Szene illustriert und in Zusammenhang stellt. Dabei untersucht wurden die Beziehungen dieser Akteure hinsichtlich gemeinsamer Auftritte auf Festivals, gemeinsamer Labels, gemeinsamer Tour- und Support-Auftritte sowie gemeinsamer Feature-Songs in den Jahren 2015 bis 2020. Darüber hinaus wurde das Netzwerk auf die einzelnen Arten der Beziehungen geprüft, alle sechs berücksichtigten Jahre wurden miteinander verglichen und der besonders auffällige Akteur Von Wegen Lisbeth wurde gesondert analysiert. \
 Auffällig geworden ist nicht nur die schier unüberschaubare Anzahl an Festival-Verbindungen, sondern auch das „Coronajahr" 2020, das sich in Anzahl der Verbindungen stark von den anderen untersuchten Jahren unterscheidet. Eine weitere Auffälligkeit stellt das 2020 erschienene Feature „Sanifair Millionär" dar, das ungewöhnlich viele Akteure miteinander in Verbindung bringt.
 
 Keywords: Netzwerkanalyse, Indie-Bands, Kollaborationen, Festivals, Labels
 
 # 1. Einleitung
 
-Im folgenden Forschungsbericht werden wir Verbindung deutscher Indie-Bands in den Jahren von 2015 bis 2020 untersuchen.
-Dabei haben wir die in den letzten Jahren größten Festivals (Southside, Rock am Ring, Fusion, Juicy Beats), in denen auch die Musikrichtung Indie vertreten ist, genauer untersucht und anhand derer 35 Akteure ausgewählt.
-Bei der Festivalauswahl haben wir darauf geachtet, dass sie kostenpflichtig sind, um nicht im Nachhinein zu kleine Indie-Bands aussortieren zu müssen.
-Durch dieses Ausschlusskriterium ist beispielsweise das Festival „Bochum Total" nicht berücksichtigt worden.
+Im folgenden Forschungsbericht werden wir Verbindung deutscher Indie-Bands in den Jahren von 2015 bis 2020 untersuchen. Dabei haben wir die in den letzten Jahren größten Festivals (Southside, Rock am Ring, Fusion, Juicy Beats), in denen auch die Musikrichtung Indie vertreten ist, genauer untersucht und anhand derer 35 Akteure ausgewählt. Bei der Festivalauswahl haben wir darauf geachtet, dass sie kostenpflichtig sind, um nicht im Nachhinein zu kleine Indie-Bands aussortieren zu müssen. Durch dieses Ausschlusskriterium ist beispielsweise das Festival „Bochum Total" nicht berücksichtigt worden.
 
-Die ausgewählten 35 Akteure haben wir daraufhin untersucht, ob zwei Künstler:innen gemeinsam bei einem Festival aufgetreten sind (relation=1), ein gemeinsames Musiklabel haben (relation=2), gemeinsam auf Tour gegangen sind oder Auftritte zusammen gehabt haben (relation=3) und ob sie ein gemeinsames Feature produziert haben (relation=4).
-Anhand der erhobenen Daten wollen wir nun die Vernetzung der einzelnen Akteure genauer beleuchten.
-Dabei gehen wir auf die Fragen ein, ob es einen Zusammenhang zwischen gemeinsamen Features der Künstler:innen und den Auftritten auf Festivals gibt, ob das Musiklabel Einfluss auf Festivalauftritte hat, ob Künstler:innen mit mehr Spotify-Hörer:innen / Instagram-Follower:innen auch besser vernetzt sind und welche Ergebnisse die zeitliche Entwicklungen zeigen.
+Die ausgewählten 35 Akteure haben wir daraufhin untersucht, ob zwei Künstler:innen gemeinsam bei einem Festival aufgetreten sind (relation=1), ein gemeinsames Musiklabel haben (relation=2), gemeinsam auf Tour gegangen sind oder Auftritte zusammen gehabt haben (relation=3) und ob sie ein gemeinsames Feature produziert haben (relation=4). Anhand der erhobenen Daten wollen wir nun die Vernetzung der einzelnen Akteure genauer beleuchten. Dabei gehen wir auf die Fragen ein, ob es einen Zusammenhang zwischen gemeinsamen Features der Künstler:innen und den Auftritten auf Festivals gibt, ob das Musiklabel Einfluss auf Festivalauftritte hat, ob Künstler:innen mit mehr Spotify-Hörer:innen / Instagram-Follower:innen auch besser vernetzt sind und welche Ergebnisse die zeitliche Entwicklungen zeigen.
 
 # 2. Vorarbeiten und vergleichbare Studien
 
 ## 2.1 Forschungsstand
 
-In Deutschland gehört die Musikwirtschaft mit zu den größten Wirtschaftsbranchen.
-Die Bruttowertschöpfung der Musikwirtschaftsbranche ist höher als die der Filmwirtschaft, Hörfunkveranstalter, der Buchverlage, Zeitschriftenverlage oder Zeitungsverlage.
-Nur die Fernsehveranstalter verzeichnen eine höhere Wertschöpfung (vgl. Bundesverband der Konzert und Veranstaltungswirtschaft, 2020).
+In Deutschland gehört die Musikwirtschaft mit zu den größten Wirtschaftsbranchen. Die Bruttowertschöpfung der Musikwirtschaftsbranche ist höher als die der Filmwirtschaft, Hörfunkveranstalter, der Buchverlage, Zeitschriftenverlage oder Zeitungsverlage. Nur die Fernsehveranstalter verzeichnen eine höhere Wertschöpfung (vgl. Bundesverband der Konzert und Veranstaltungswirtschaft, 2020).
 
-Im Jahr 2020 sah das allerdings anders aus, da wegen der Corona-Pandemie alle Festivals und die meisten Konzerte abgesagt wurden.
-Statt aber diesen nachzutrauern, ruft die Chemnitzer Band Blond eine „virtuelle Cypher" (vgl. Musik3000, 2020, Abs. 1) mit dem Song „Sanifair Millionär" ins Leben.
-Die Band interpretiert ihren eigenen Hit neu und lädt bekannte Feature-Gäste ein.
-Mit dabei sind vor allem Künstler:innen aus der deutschen Indie Szene wie Kummer, Drangsal und Von Wegen Lisbeth.
-Der Song wurde am 17.07.2020 veröffentlicht und bringt 17 Indie-Bands zusammen (vgl. Musik3000, 2020).
-Inspiriert durch diesen Feature-Song wollten wir uns die deutsche Indie-Szene und die Verknüpfung der Künstler:innen genauer anschauen.
+Im Jahr 2020 sah das allerdings anders aus, da wegen der Corona-Pandemie alle Festivals und die meisten Konzerte abgesagt wurden. Statt aber diesen nachzutrauern, ruft die Chemnitzer Band Blond eine „virtuelle Cypher" (vgl. Musik3000, 2020, Abs. 1) mit dem Song „Sanifair Millionär" ins Leben. Die Band interpretiert ihren eigenen Hit neu und lädt bekannte Feature-Gäste ein. Mit dabei sind vor allem Künstler:innen aus der deutschen Indie Szene wie Kummer, Drangsal und Von Wegen Lisbeth. Der Song wurde am 17.07.2020 veröffentlicht und bringt 17 Indie-Bands zusammen (vgl. Musik3000, 2020). Inspiriert durch diesen Feature-Song wollten wir uns die deutsche Indie-Szene und die Verknüpfung der Künstler:innen genauer anschauen.
 
-Genres verschmelzen auch in Deutschland immer mehr.
-Verschiedene Künstler:innen produzieren Genre-übergreifende Features und so entstehen wiederum neue Genres wie „Indie-Pop" oder „Indie-Rock" (Winkler, 2020).
-Uns stellt sich die Frage: Gibt es auch innerhalb eines Genres, in unserem Fall des Indie-Genres, viele Kollaborationen?
+Genres verschmelzen auch in Deutschland immer mehr. Verschiedene Künstler:innen produzieren Genre-übergreifende Features und so entstehen wiederum neue Genres wie „Indie-Pop" oder „Indie-Rock" (Winkler, 2020). Uns stellt sich die Frage: Gibt es auch innerhalb eines Genres, in unserem Fall des Indie-Genres, viele Kollaborationen?
 
-Eine weitere Frage, die sich bei Kollaborationen aufdrängt: Wie kommt es überhaupt dazu, dass gewisse Künstler:innen gemeinsame Features aufnehmen?
-Showcase Festivals bieten beispielsweise für neue Bands und Musiker:innen die Möglichkeit, vor fachkundigem Publikum aufzutreten und so den Bekanntheitsgrad zu erhöhen.
-Diese Art von Festivals verbindet Musikfestival und Branchentreff.
-Durch die Anwesenheit von Veranstalter:innen, Plattenlabels, Journalist:innen und anderen Musikschaffenden ist es leicht, neue Kontakte zu knüpfen (vgl. Nagel, 2019).
-Somit können Festivals die Grundlage für spätere gemeinsame Songs oder das Begleiten der jeweiligen anderen Musiker:innen als Vorband sein.
+Eine weitere Frage, die sich bei Kollaborationen aufdrängt: Wie kommt es überhaupt dazu, dass gewisse Künstler:innen gemeinsame Features aufnehmen? Showcase Festivals bieten beispielsweise für neue Bands und Musiker:innen die Möglichkeit, vor fachkundigem Publikum aufzutreten und so den Bekanntheitsgrad zu erhöhen. Diese Art von Festivals verbindet Musikfestival und Branchentreff. Durch die Anwesenheit von Veranstalter:innen, Plattenlabels, Journalist:innen und anderen Musikschaffenden ist es leicht, neue Kontakte zu knüpfen (vgl. Nagel, 2019). Somit können Festivals die Grundlage für spätere gemeinsame Songs oder das Begleiten der jeweiligen anderen Musiker:innen als Vorband sein.
 
-Soziale Netzwerke wie Instagram schaffen eine exklusive Nähe -- auf der einen Seite zu den Follower:innen und auf der anderen Seite zu anderen Musikschaffenden.
-Sie sind wie eine weitere Bühne, auf denen sich Musiker:innen präsentieren, um ihre Bekanntheit zu steigern (vgl. Noka, 2019).
-Musiker:innen können durch die sozialen Netzwerke unabhängiger von Labels agieren, eine eigene Fangemeinde aufbauen, sich mit anderen Künstler:innen vernetzen und über digitale Medien gemeinsam Musik machen (vgl. Schöbel, 2016).
-Vor allem Instagram eignet sich, um mit Fans und anderen Musiker:innen in Kontakt zu treten, neue Musik anzukündigen, eigene Musik zu verkaufen, auf Festivals aufmerksam zu machen und insgesamt an Bekanntheit zu gewinnen (vgl. Seawood, 2016).
-Somit liegt auch die Vermutung nahe, dass Musiker:innen, die besonders aktiv in den sozialen Netzwerken sind, auch gute Vernetzungen zu anderen Musikschaffenden haben.
+Soziale Netzwerke wie Instagram schaffen eine exklusive Nähe -- auf der einen Seite zu den Follower:innen und auf der anderen Seite zu anderen Musikschaffenden. Sie sind wie eine weitere Bühne, auf denen sich Musiker:innen präsentieren, um ihre Bekanntheit zu steigern (vgl. Noka, 2019). Musiker:innen können durch die sozialen Netzwerke unabhängiger von Labels agieren, eine eigene Fangemeinde aufbauen, sich mit anderen Künstler:innen vernetzen und über digitale Medien gemeinsam Musik machen (vgl. Schöbel, 2016). Vor allem Instagram eignet sich, um mit Fans und anderen Musiker:innen in Kontakt zu treten, neue Musik anzukündigen, eigene Musik zu verkaufen, auf Festivals aufmerksam zu machen und insgesamt an Bekanntheit zu gewinnen (vgl. Seawood, 2016). Somit liegt auch die Vermutung nahe, dass Musiker:innen, die besonders aktiv in den sozialen Netzwerken sind, auch gute Vernetzungen zu anderen Musikschaffenden haben.
 
-In Deutschland haben sich sogenannte Independent Labels (kurz: Indie-Labels) auf dem Musikmarkt etabliert.
-Der Verband unabhängiger Musikunternehmer:innen e.
-V. vertritt die Interessen unabhängiger Unternehmer:innen der deutschen Musikwirtschaft und zählt mittlerweile rund 1.200 selbstvermarktende Künstler:innen, Labels, Verlage, Vertriebe und Produzent:innen (vgl. VUT, 2021).
-Bereits 2017 konnte man in der Indie-Branche einen Wachstum verzeichnen.
-Im Vergleich: Zu Beginn des Jahres 2017 zählte der VUT 1.146 Mitglieder (vgl. Wischmeyer, 2018).
+In Deutschland haben sich sogenannte Independent Labels (kurz: Indie-Labels) auf dem Musikmarkt etabliert. Der Verband unabhängiger Musikunternehmer:innen e. V. vertritt die Interessen unabhängiger Unternehmer:innen der deutschen Musikwirtschaft und zählt mittlerweile rund 1.200 selbstvermarktende Künstler:innen, Labels, Verlage, Vertriebe und Produzent:innen (vgl. VUT, 2021). Bereits 2017 konnte man in der Indie-Branche einen Wachstum verzeichnen. Im Vergleich: Zu Beginn des Jahres 2017 zählte der VUT 1.146 Mitglieder (vgl. Wischmeyer, 2018).
 
-Viele Indie-Labels entstehen, da Bands ihre Selbstbestimmung behalten wollen und große Labels meist an Nischenpublikum kein Interesse haben.
-So nehmen viele Musiker:innen ihr Anliegen selbst in die Hand und gründen eigenen Labels (vgl. Goethe Institut, 2016).
-Bei unserer Netzwerkanalyse wollen wir auch untersuchen, ob es unter den Akteuren gleiche Labels gibt und somit eine Vernetzung besteht, oder ob innerhalb des Indie-Genres die einzelnen Musiker:innen dazu tendieren, ihre eigenen Labels zu haben.
+Viele Indie-Labels entstehen, da Bands ihre Selbstbestimmung behalten wollen und große Labels meist an Nischenpublikum kein Interesse haben. So nehmen viele Musiker:innen ihr Anliegen selbst in die Hand und gründen eigenen Labels (vgl. Goethe Institut, 2016). Bei unserer Netzwerkanalyse wollen wir auch untersuchen, ob es unter den Akteuren gleiche Labels gibt und somit eine Vernetzung besteht, oder ob innerhalb des Indie-Genres die einzelnen Musiker:innen dazu tendieren, ihre eigenen Labels zu haben.
 
 Bei unserer Recherche ist uns kein ähnliches oder vergleichbares Netzwerk aufgefallen, mit dem wir unsere Forschung hätten vergleichen oder an das wir hätten anknüpfen können.
 
-Im Zuge dieser Netzwerkanalyse werden wir die Verbindungen von Indie-Bands aus dem deutschsprachigen Raum in den Jahren 2015 bis 2020 untersuchen und auf verschiedene Forschungsfragen eingehen.
-All diesen wollen wir aber eine Forschungsfrage überordnen:
+Im Zuge dieser Netzwerkanalyse werden wir die Verbindungen von Indie-Bands aus dem deutschsprachigen Raum in den Jahren 2015 bis 2020 untersuchen und auf verschiedene Forschungsfragen eingehen. All diesen wollen wir aber eine Forschungsfrage überordnen:
 
 *Wie sind deutsche Indie-Bands miteinander vernetzt?*
 
@@ -104,11 +74,7 @@ Diese Arbeitshypothesen werden im Folgenden durch die Analyse des Netzwerks unte
 
 ## 3.1 Datenzugang
 
-Die Daten haben wir über verschiedene Websites erfasst, die die Festivalauftritte der Akteure in den Jahren von 2015 bis 2020 aufzeigen (Beispiel: <https://www.festivalhopper.de>).
-Außerdem haben wir die Website der jeweiligen Akteuren und deren Spotify- sowie Instagram-Auftritt untersucht.
-Das Ganze haben wir mit einer freien Recherche über Ticket-Websites, Wikipedia, Musikmagazine & Co. ergänzt.
-Eine vollständige Liste aller Websites, die bei der Recherche genutzt wurden, finden sich unter Kapitel 6.2 in diesem Dokument.
-Welche Quelle für welche Verbindung zurate gezogen wurde, ist zudem in der Edge-List hinterlegt, die in diesem Dokument verlinkt ist.
+Die Daten haben wir über verschiedene Websites erfasst, die die Festivalauftritte der Akteure in den Jahren von 2015 bis 2020 aufzeigen (Beispiel: <https://www.festivalhopper.de>). Außerdem haben wir die Website der jeweiligen Akteuren und deren Spotify- sowie Instagram-Auftritt untersucht. Das Ganze haben wir mit einer freien Recherche über Ticket-Websites, Wikipedia, Musikmagazine & Co. ergänzt. Eine vollständige Liste aller Websites, die bei der Recherche genutzt wurden, finden sich unter Kapitel 6.2 in diesem Dokument. Welche Quelle für welche Verbindung zurate gezogen wurde, ist zudem in der Edge-List hinterlegt, die in diesem Dokument verlinkt ist.
 
 ## 3.2 Bereinigung des Datensatzes
 
@@ -120,14 +86,11 @@ Das [Codebuch](https://github.com/lz029/226305-SNA-WS-21-22/blob/main/Indie/INDI
 
 # 4. Analyse und Interpretation
 
-Im Folgenden wird zuerst das Gesamtnetzwerk und somit alle Verbindungen der 35 Indie-Bands betrachtet.
-Danach folgt eine Selektion in einzelne Teilnetzwerke, um unsere Arbeitshypothesen zu untersuchen.
+Im Folgenden wird zuerst das Gesamtnetzwerk und somit alle Verbindungen der 35 Indie-Bands betrachtet. Danach folgt eine Selektion in einzelne Teilnetzwerke, um unsere Arbeitshypothesen zu untersuchen.
 
 ## 4.1 Das Gesamtnetzwerk
 
-Das Gesamtnetzwerk umfasst 35 Knoten und 1078 Beziehungen.
-Es handelt sich um ein ungerichtetes und gewichtetes One-Mode-Netzwerk.
-Dieses werden wir zu Beginn in RStudio einlesen, um eine einfache Visualisierung darzustellen und einen ersten Überblick zu erhalten.
+Das Gesamtnetzwerk umfasst 35 Knoten und 1.078 Beziehungen. Es handelt sich um ein ungerichtetes und gewichtetes One-Mode-Netzwerk. Dieses werden wir zu Beginn in RStudio einlesen, um eine einfache Visualisierung darzustellen und einen ersten Überblick zu erhalten.
 
 ```{r Gesamnetzwerk erstellen, echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
 
@@ -165,10 +128,7 @@ diameter(indie)
 farthest_vertices(indie)
 ```
 
-Das Hauptnetzwerk besteht aus einem Komponenten mit 35 Knoten, die alle miteinander verbunden sind.
-Die Dichte im Netzwerk beträgt 181,18 Prozent von allen möglichen Verbindungen.
-Somit ist das Indie-Netzwerk der 35 Akteure stark miteinander vernetzt.
-Die maximale Pfaddistanz beträgt 2 Schritte zwischen den zwei Akteuren „Amilli" und „Bilderbuch".
+Das Hauptnetzwerk besteht aus einem Komponenten mit 35 Knoten, die alle miteinander verbunden sind. Die Dichte im Netzwerk beträgt 181,18 Prozent von allen möglichen Verbindungen. Somit ist das Indie-Netzwerk der 35 Akteure stark miteinander vernetzt. Die maximale Pfaddistanz beträgt 2 Schritte zwischen den zwei Akteuren „Amilli" und „Bilderbuch".
 
 Im Folgenden wird das Gesamtnetzwerk mit allen Verbindungen der 35 Indie-Bands zwischen den Jahren 2015 und 2020 angezeigt.
 
@@ -188,11 +148,9 @@ plot(indie,
      vertex.size=10,)
 ```
 
-In dieser Darstellung lassen sich keine genauen Zusammenhänge erklären, weshalb wir das Netzwerk weiter unterteilen müssen.
-Was sich allerdings klar zeigt: Es gibt keine:n Musiker:in, der:die keine Verbindung zu einem:r anderen Musiker:in hat.
+In dieser Darstellung lassen sich keine genauen Zusammenhänge erklären, weshalb wir das Netzwerk weiter unterteilen müssen. Was sich allerdings klar zeigt: Es gibt keine:n Musiker:in, der:die keine Verbindung zu einem:r anderen Musiker:in hat.
 
-Das gesamte Netzwerk wird jetzt so visualisiert, dass man die Verbindungen durch Label, Feature und gemeinsame Auftritte stärker und individuell erkennen kann.
-Dafür werden alle Beziehungsstärken 1, also die gemeinsamen Auftritte bei Festivals, transparent geschalten.
+Das gesamte Netzwerk wird jetzt so visualisiert, dass man die Verbindungen durch Label, Feature und gemeinsame Auftritte stärker und individuell erkennen kann. Dafür werden alle Beziehungsstärken 1, also die gemeinsamen Auftritte bei Festivals, transparent geschalten.
 
 ```{r sortiertere Visualisierung des Gesamtnetzwerks ohne Beziehungsstärke 1}
 
@@ -213,14 +171,9 @@ plot(indie,
      vertex.size=10)
 ```
 
-Bei dieser Visualiserung kann man erkennen, dass es einige Verbindungen der Beziehungsstärke 2 gibt.
-Es gibt also mehrere Künstler:innen, die den gleichen Musiklabels angehören.
-Allerdings ist bei dieser Darstellung des Gesamtnetzwerkes nicht die zeitliche Komponente berücksichtigt und so lässt sich nur die Aussage treffen, dass einige Künstler:innen bei den gleichen Musiklabels innerhalb der letzten fünf Jahre waren.
-Die Verbindungen der Beziehungsstärken 3 und 4 scheinen ungefähr gleich oft aufzutreten.
+Bei dieser Visualiserung kann man erkennen, dass es einige Verbindungen der Beziehungsstärke 2 gibt. Es gibt also mehrere Künstler:innen, die den gleichen Musiklabels angehören. Allerdings ist bei dieser Darstellung des Gesamtnetzwerkes nicht die zeitliche Komponente berücksichtigt und so lässt sich nur die Aussage treffen, dass einige Künstler:innen bei den gleichen Musiklabels innerhalb der letzten fünf Jahre waren. Die Verbindungen der Beziehungsstärken 3 und 4 scheinen ungefähr gleich oft aufzutreten.
 
-Nun sollen nur die Verbindungen mit Beziehungsstärke 1 angezeigt werden.
-Also alle Verbindungen, bei denen die Akteure auf dem gleichen Festival gespielt haben.
-Dafür werden alle anderen Beziehungsstärken transparent gesetzt.
+Nun sollen nur die Verbindungen mit Beziehungsstärke 1 angezeigt werden. Also alle Verbindungen, bei denen die Akteure auf dem gleichen Festival gespielt haben. Dafür werden alle anderen Beziehungsstärken transparent gesetzt.
 
 ```{r sortiertere Visualisierung des Gesamtnetzwerks nur mit Beziehungsstärke 1}
 
@@ -242,12 +195,9 @@ plot(indie,
 
 ```
 
-Durch die hohe Anzahl an Kanten lässt sich hier nichts genauer erkennen.
-Die Musiker:innen haben also auf vielen Festivals gemeinsam gespielt.
+Durch die hohe Anzahl an Kanten lässt sich hier nichts genauer erkennen. Die Musiker:innen haben also auf vielen Festivals gemeinsam gespielt.
 
-Nun sollen nur die Verbindungen mit Beziehungsstärke 2 angezeigt werden.
-Also alle Verbindungen über die Jahre, in denen die Akteure das gleiche Musiklabel hatten.
-Dafür werden alle anderen Beziehungsstärken transparent gesetzt.
+Nun sollen nur die Verbindungen mit Beziehungsstärke 2 angezeigt werden. Also alle Verbindungen über die Jahre, in denen die Akteure das gleiche Musiklabel hatten. Dafür werden alle anderen Beziehungsstärken transparent gesetzt.
 
 ```{r sortiertere Visualisierung des Gesamtnetzwerks nur mit Beziehungsstärke 2}
 
@@ -269,13 +219,9 @@ plot(indie,
 
 ```
 
-In dieser Visualisierung wird nochmal sichtbar, welche Musiker:innen innerhalb der letzten fünf Jahre bei den gleichen Musiklabels waren.
-Wie oben bereits erwähnt, wird hier nicht die zeitliche Komponente berücksichtigt und somit kann man nicht sagen, ob die Musiker:innen auch zur gleichen Zeit bei demselben Musiklabel angestellt waren.
-Wie unsere Recherche bestätigt hat, ist es im Bereich Indie nicht selten, dass Musiker:innen kleinen Labels angehören oder sogar eigene Labels gründen und somit nicht viele Gemeinsamkeiten entstehen.
+In dieser Visualisierung wird nochmal sichtbar, welche Musiker:innen innerhalb der letzten fünf Jahre bei den gleichen Musiklabels waren. Wie oben bereits erwähnt, wird hier nicht die zeitliche Komponente berücksichtigt und somit kann man nicht sagen, ob die Musiker:innen auch zur gleichen Zeit bei demselben Musiklabel angestellt waren. Wie unsere Recherche bestätigt hat, ist es im Bereich Indie nicht selten, dass Musiker:innen kleinen Labels angehören oder sogar eigene Labels gründen und somit nicht viele Gemeinsamkeiten entstehen.
 
-Nun sollen nur die Verbindungen mit Beziehungsstärke 3 angezeigt werden.
-Also alle Verbindungen, bei denen die Akteure gemeinsam auf Tour waren und/oder sich bei Auftritten gegenseitig als Vorband supported haben.
-Dafür werden alle anderen Beziehungsstärken transparent gesetzt.
+Nun sollen nur die Verbindungen mit Beziehungsstärke 3 angezeigt werden. Also alle Verbindungen, bei denen die Akteure gemeinsam auf Tour waren und/oder sich bei Auftritten gegenseitig als Vorband supported haben. Dafür werden alle anderen Beziehungsstärken transparent gesetzt.
 
 ```{r sortiertere Visualisierung des Gesamtnetzwerks nur mit Beziehungsstärke 3}
 
@@ -297,13 +243,9 @@ plot(indie,
 
 ```
 
-Mit dieser Visualisierung wird verdeutlicht, welche Bands sich innerhalb der letzten fünf Jahre supported haben.
-Bei Musiker:innen wie Kraftklub, Giant Rooks, Leoniden und Fil Bo Riva sind mehrere Kanten zu sehen.
-Das bedeutet, dass diese Künstler:innen sich vermehrt mit anderen Musikschaffenden vernetzt haben und gemeinsam auf Tour waren und/oder sich bei Auftritten gegenseitig als Vorband supported haben.
+Mit dieser Visualisierung wird verdeutlicht, welche Bands sich innerhalb der letzten fünf Jahre supported haben. Bei Musiker:innen wie Kraftklub, Giant Rooks, Leoniden und Fil Bo Riva sind mehrere Kanten zu sehen. Das bedeutet, dass diese Künstler:innen sich vermehrt mit anderen Musikschaffenden vernetzt haben und gemeinsam auf Tour waren und/oder sich bei Auftritten gegenseitig als Vorband supported haben.
 
-Nun sollen nur die Verbindungen mit Beziehungsstärke 4 angezeigt werden.
-Also alle Verbindungen bei denen die Akteure gemeinsam ein Feature haben.
-Dafür werden alle anderen Beziehungsstärken transparent gesetzt.
+Nun sollen nur die Verbindungen mit Beziehungsstärke 4 angezeigt werden. Also alle Verbindungen bei denen die Akteure gemeinsam ein Feature haben. Dafür werden alle anderen Beziehungsstärken transparent gesetzt.
 
 ```{r sortiertere Visualisierung des Gesamtnetzwerks nur mit Beziehungsstärke 4}
 
@@ -325,9 +267,7 @@ plot(indie,
 
 ```
 
-Hier wird deutlich, dass es bei den 35 Akteuren innerhalb der letzten fünf Jahre nicht viele gemeinsame Feature-Songs gab.
-In der Mitte ist eine starke Vernetzung mehrerer Bands zu sehen.
-Das liegt unter anderem an dem Feature-Song „Sanifair Millionär", bei dem die Band Blond 2020 insgesamt 17 Indie-Bands zusammengebracht hat. Davon haben wir fünf Bands in unsere Netzwerkanalyse miteinbezogen. Abgesehen von diesem großen Feature-Song hat die Band AnneMayKantereit mit vier Kanten vergleichsweise viele Features.
+Hier wird deutlich, dass es bei den 35 Akteuren innerhalb der letzten fünf Jahre nicht viele gemeinsame Feature-Songs gab. In der Mitte ist eine starke Vernetzung mehrerer Bands zu sehen. Das liegt unter anderem an dem Feature-Song „Sanifair Millionär", bei dem die Band Blond 2020 insgesamt 17 Indie-Bands zusammengebracht hat. Davon haben wir fünf Bands in unsere Netzwerkanalyse miteinbezogen. Abgesehen von diesem großen Feature-Song hat die Band AnneMayKantereit mit vier Kanten vergleichsweise viele Features.
 
 Im Folgenden werden wir das Gesamtnetzwerk auf Cluster untersuchen.
 
@@ -355,39 +295,24 @@ plot(cw, indie,
      main="Communities im Indie Netzwerk")
 ```
 
-Die Analyse zeigt: das Netzwerk besteht aus 4 miteinander verbundenen Clustern, die aus 35 Knoten bestehen.
-In unserem Gesamtnetzwerk sind die Cluster sehr eng miteinander verwoben und es hebt sich keine bestimmte Gruppierung davon ab.
-Somit lohnt es sich nicht, eine der Cluster-Gruppen genauer zu analysieren.
+Die Analyse zeigt: das Netzwerk besteht aus 4 miteinander verbundenen Clustern, die aus 35 Knoten bestehen. In unserem Gesamtnetzwerk sind die Cluster sehr eng miteinander verwoben und es hebt sich keine bestimmte Gruppierung davon ab. Somit lohnt es sich nicht, eine der Cluster-Gruppen genauer zu analysieren.
 
 ## 4.2 Teilnetzwerke
 
-Im Folgenden werden die Verbindungen aller Bands nach Jahren aufgeteilt.
-Dadurch sollen Unterschiede besser zur Geltung kommen.
-In welchem Jahr waren die meisten Bands aktiv?
-Wie wirkt sich das Corona-Jahr 2020 auf unsere Musiker:innen aus?
-Um Unterschiede direkt sichtbarer zu machen, wird hier der Befehl "layout_with_kk", mit dem wir unsere Netzwerke normalerweise plotten, durch den Befehl "layout_in_circle" ersetzt.
-So bleiben alle Bands an gleicher Stelle und die sieben Teilnetzwerke können besser miteinander verglichen werden.
+Im Folgenden werden die Verbindungen aller Bands nach Jahren aufgeteilt. Dadurch sollen Unterschiede besser zur Geltung kommen. In welchem Jahr waren die meisten Bands aktiv? Wie wirkt sich das Corona-Jahr 2020 auf unsere Musiker:innen aus? Um Unterschiede direkt sichtbarer zu machen, wird hier der Befehl "layout_with_kk", mit dem die Netzwerke normalerweise geplottet werden, durch den Befehl "layout_in_circle" ersetzt. So bleiben alle Bands an gleicher Stelle und die sieben Teilnetzwerke können besser miteinander verglichen werden.
 
 ```{r Teilnetzwerke nach Jahren,fig.height=10, fig.width=14, message=FALSE, warning=FALSE, paged.print=FALSE}
 
 list.edge.attributes(indie)
 edge.attributes(indie)$time
 
-# Teilnetzwerke nach Jahren erstellen
-y2015 <- subgraph.edges(indie, E(indie)[time=="2015"])
-y2016 <- subgraph.edges(indie, E(indie)[time=="2016"])
-y2017 <- subgraph.edges(indie, E(indie)[time=="2017"])
-y2018 <- subgraph.edges(indie, E(indie)[time=="2018"])
-y2019 <- subgraph.edges(indie, E(indie)[time=="2019"])
-y2020 <- subgraph.edges(indie, E(indie)[time=="2020"])
-
-# Visualisierung: Vergleichen aller Jahre mit dem Gesamtnetzwerk
+# Knoten und Kanten speziell einfärben
 E(indie)[ (E(indie)$relation == 1) ]$color <- "gray85"
 E(indie)[ (E(indie)$relation == 2) ]$color <- "cyan4"
 E(indie)[ (E(indie)$relation == 3) ]$color <- "coral3"
 E(indie)[ (E(indie)$relation == 4) ]$color <- "darkgoldenrod1"
 
-par(mfrow=c(4,4), mar=c(1,1,1,1))
+#Gesamtnetzwerk
 plot(indie, layout=layout_in_circle, main="Gesamt",
      vertex.frame.color="transparent", 
      vertex.label.family = "Arial",
@@ -397,6 +322,9 @@ plot(indie, layout=layout_in_circle, main="Gesamt",
      asp=0,
      vertex.size=10)
 
+# Teilnetzwerk 2015 erstellen
+y2015 <- subgraph.edges(indie, E(indie)[time=="2015"])
+# Teilnetzwerk 2015 visualisieren
 plot(y2015, layout=layout_in_circle, main="2015",
      vertex.frame.color="transparent", 
      vertex.label.family = "Arial",
@@ -406,6 +334,9 @@ plot(y2015, layout=layout_in_circle, main="2015",
      asp=0,
      vertex.size=10)
 
+# Teilnetzwerk 2016 erstellen
+y2016 <- subgraph.edges(indie, E(indie)[time=="2016"])
+# Teilnetzwerk 2016 visualisieren
 plot(y2016, layout=layout_in_circle, main="2016",
      vertex.frame.color="transparent", 
      vertex.label.family = "Arial",
@@ -415,6 +346,9 @@ plot(y2016, layout=layout_in_circle, main="2016",
      asp=0,
      vertex.size=10)
 
+# Teilnetzwerk 2017 erstellen
+y2017 <- subgraph.edges(indie, E(indie)[time=="2017"])
+# Teilnetzwerk 2017 visualisieren
 plot(y2017, layout=layout_in_circle, main="2017",
      vertex.frame.color="transparent", 
      vertex.label.family = "Arial",
@@ -424,6 +358,9 @@ plot(y2017, layout=layout_in_circle, main="2017",
      asp=0,
      vertex.size=10)
 
+# Teilnetzwerk 2018 erstellen
+y2018 <- subgraph.edges(indie, E(indie)[time=="2018"])
+# Teilnetzwerk 2018 visualisieren
 plot(y2018, layout=layout_in_circle, main="2018",
      vertex.frame.color="transparent", 
      vertex.label.family = "Arial",
@@ -433,6 +370,9 @@ plot(y2018, layout=layout_in_circle, main="2018",
      asp=0,
      vertex.size=10)
 
+# Teilnetzwerk 2019 erstellen
+y2019 <- subgraph.edges(indie, E(indie)[time=="2019"])
+# Teilnetzwerk 2019 visualisieren
 plot(y2019, layout=layout_in_circle, main="2019" ,
      vertex.frame.color="transparent", 
      vertex.label.family = "Arial",
@@ -442,6 +382,9 @@ plot(y2019, layout=layout_in_circle, main="2019" ,
      asp=0,
      vertex.size=10)
 
+# Teilnetzwerk 2020 erstellen
+y2020 <- subgraph.edges(indie, E(indie)[time=="2020"])
+# Teilnetzwerk 2020 visualisieren
 plot(y2020, layout=layout_in_circle, main="2020",
      vertex.frame.color="transparent", 
      vertex.label.family = "Arial",
@@ -450,16 +393,14 @@ plot(y2020, layout=layout_in_circle, main="2020",
       layout = layout_components,
      asp=0,
      vertex.size=10)
+
+# Alle sieben Netzwerke nebeneinander visualisieren
+par(mfrow=c(4,4), mar=c(1,1,1,1))
 ```
 
-Deutlich zu erkennen ist, dass das Zerlegen der Verbindungen in Teilnetzwerke nach Jahren eine deutliche Entzerrung mit sich gebracht hat.
-Sofort ins Auge springt wohl das Teilnetzwerk des Jahres 2020, das durch im Vergleich deutlich weniger Kanten auffällt.
-Grund hierfür sind die fehlenden Festivals, die aufgrund der Covid-19-Pandemie in diesem Jahr ausblieben.
-Gleichzeitig sind die sonst nur sporadisch verteilten gelben Kanten, die die Verbindung zweier Knoten durch ein gemeinsames Feature (relation=4) kennzeichnet, ein Merkmal des Teilnetzwerkes 2020.
-Diese sind größtenteils dem „Mammut-Feature" „Sanifair Millionär" zuzuschreiben, das fünf der untersuchten Bands miteinander verbindet.
+Deutlich zu erkennen ist, dass das Zerlegen der Verbindungen in Teilnetzwerke nach Jahren eine deutliche Entzerrung mit sich gebracht hat. Sofort ins Auge springt wohl das Teilnetzwerk des Jahres 2020, das durch im Vergleich deutlich weniger Kanten auffällt. Grund hierfür sind die fehlenden Festivals, die aufgrund der Covid-19-Pandemie in diesem Jahr ausblieben. Gleichzeitig sind die sonst nur sporadisch verteilten gelben Kanten, die die Verbindung zweier Knoten durch ein gemeinsames Feature (relation=4) kennzeichnet, ein Merkmal des Teilnetzwerkes 2020. Diese sind größtenteils dem „Mammut-Feature" „Sanifair Millionär" zuzuschreiben, das fünf der untersuchten Bands miteinander verbindet.
 
-Eine weiter Auffälligkeit bringt das Teilnetzwerk des Jahres 2015 mit sich, denn auch hier gehen von einigen Bands im Vergleich zu den anderen Jahren (mit Ausnahme von 2020) deutlich weniger Kanten aus.
-Die Ursache hierfür findet sich vermutlich in der Tatsache, dass viele der in unserer Netzwerkanalyse untersuchten Bands im Jahr 2015 noch nicht aktiv waren oder erst im Laufe der untersuchten Jahre „groß" genug wurden, um auf vielen Festivals Auftritte zu ergattern.
+Eine weiter Auffälligkeit bringt das Teilnetzwerk des Jahres 2015 mit sich, denn auch hier gehen von einigen Bands im Vergleich zu den anderen Jahren (mit Ausnahme von 2020) deutlich weniger Kanten aus. Die Ursache hierfür findet sich vermutlich in der Tatsache, dass viele der in unserer Netzwerkanalyse untersuchten Bands im Jahr 2015 noch nicht aktiv waren oder erst im Laufe der untersuchten Jahre „groß" genug wurden, um auf vielen Festivals Auftritte zu ergattern.
 
 Nun sollen Degree-Wert und Dichte aller Teilnetzwerke miteinander und mit denen des Gesamtnetzwerkes verglichen werden.
 
@@ -494,9 +435,7 @@ edge_density(y2019, loops=FALSE)
 edge_density(y2020, loops=FALSE)
 ```
 
-Betrachtet man die Dichten der sechs Teilnetzwerke, liegt die höchste bei 2017 mit 66,13 Prozent, dicht gefolgt von 2018 mit 64,53 Prozent.
-Wenig verwunderlich ist das Jahr 2020, das sich wie im vorherigen Abschnitt bereits beschrieben vor allem durch die fehlenden Festival-Verbindungen auszeichnet.
-Insofern ist die bei lediglich 18,97 Prozent liegende Dichte in diesem Jahr keine Überraschung.
+Betrachtet man die Dichten der sechs Teilnetzwerke, liegt die höchste bei 2017 mit 66,13 Prozent, dicht gefolgt von 2018 mit 64,53 Prozent. Wenig verwunderlich ist das Jahr 2020, das sich wie im vorherigen Abschnitt bereits beschrieben vor allem durch die fehlenden Festival-Verbindungen auszeichnet. Insofern ist die bei lediglich 18,97 Prozent liegende Dichte in diesem Jahr keine Überraschung.
 
 ```{r Erneutes einlesen des Gesamnetzwerk, echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
 library(igraph)
@@ -594,21 +533,11 @@ degree(indie4)
 
 ```
 
-Bei der Betrachtung der Teilnetzwerke nach Relations bestätigt sich, was sich bereits bei der Visualisierung des Gesamtnetzwerkes angedeutet hat.
-Je stärker die Verbindung, also enger die Zusammenarbeit zwischen den Künstler:innen, desto kleiner werden die Teilnetzwerke.
-Daraus ergibt sich auch die abfallende Netzwerkdichte mit aufsteigender Verbindungsstärke.
-Während auf den Festivals noch sehr viele Bands aufeinandertreffen, haben nur wenige ein Feature oder eine gemeinsame Tour.
-Ein gemeinsamer Festivalauftritt ist auch nicht mit einer bewusst gewählten Vernetzung gleichzusetzen; hier kann allenfalls davon ausgegangen werden, dass die Künstler:innen sich gegenseitig kennen.
-Bei einem Feature oder der Wahl einer Vorband ist eine bewusst gewählte Vernetzung anzunehmen.
-Auch bilden sich Gruppen, die keine Verbindungen zueinander aufweisen, oder Gruppen, in denen die Künstler:innen untereinander gut vernetzt sind.
-Das lässt sich in dem Sinne interpretieren, dass nach einer engen Zusammenarbeit weitere Verbindungen zu dem/der Künstler:in nahestehenden Dritten entsteht.
-Zu beachten gilt es dabei aber, dass bei einem gemeinsamen Feature mehr als zwei Künstler:innen beteiligt sein können.
-Bei den Beziehungen 2-4 lassen sich ebenfalls einzelne Gruppierungen erkennen.
+Bei der Betrachtung der Teilnetzwerke nach Relations bestätigt sich, was sich bereits bei der Visualisierung des Gesamtnetzwerkes angedeutet hat. Je stärker die Verbindung, also enger die Zusammenarbeit zwischen den Künstler:innen, desto kleiner werden die Teilnetzwerke. Daraus ergibt sich auch die abfallende Netzwerkdichte mit aufsteigender Verbindungsstärke. Während auf den Festivals noch sehr viele Bands aufeinandertreffen, haben nur wenige ein Feature oder eine gemeinsame Tour. Ein gemeinsamer Festivalauftritt ist auch nicht mit einer bewusst gewählten Vernetzung gleichzusetzen; hier kann allenfalls davon ausgegangen werden, dass die Künstler:innen sich gegenseitig kennen. Bei einem Feature oder der Wahl einer Vorband ist eine bewusst gewählte Vernetzung anzunehmen. Auch bilden sich Gruppen, die keine Verbindungen zueinander aufweisen, oder Gruppen, in denen die Künstler:innen untereinander gut vernetzt sind. Das lässt sich in dem Sinne interpretieren, dass nach einer engen Zusammenarbeit weitere Verbindungen zu dem/der Künstler:in nahestehenden Dritten entsteht. Zu beachten gilt es dabei aber, dass bei einem gemeinsamen Feature mehr als zwei Künstler:innen beteiligt sein können. Bei den Beziehungen 2-4 lassen sich ebenfalls einzelne Gruppierungen erkennen.
 
 ## 4.3 Analyse eines herausgehobenen Akteurs in Egonetzwerken
 
-Da unser Netzwerk sehr viele Akteure und sehr viele Verbindungen zeigt, wollen wir uns im Folgenden auf einen Akteur fixieren.
-Hierfür wählen wir die Band mit der stärksten Vernetzung, also dem höchsten Degree-Wert, um anschließend nach Jahren geordnete Egonetzwerke zu erstellen, die die Kollaborationen deutlicher und übersichtlicher darstellen sollen.
+Da unser Netzwerk sehr viele Akteure und sehr viele Verbindungen zeigt, wollen wir uns im Folgenden auf einen Akteur fixieren. Hierfür wählen wir die Band mit der stärksten Vernetzung, also dem höchsten Degree-Wert, um anschließend nach Jahren geordnete Egonetzwerke zu erstellen, die die Kollaborationen deutlicher und übersichtlicher darstellen sollen.
 
 ```{r Analyse eines herausgehobenen Akteurs in Egonetzwerken}
 # Im Folgenden sollen die Kollaborationen einer Band explizit analysiert werden. Hierfür wählen wir die Band mit dem höchsten Degree-Wert.
@@ -817,30 +746,11 @@ plot(ego2020,
 par(mfrow=c(1,1), mar=c(1,1,1,1))
 ```
 
-Wie sich herausgestellt hat, ist die Band Von Wegen Lisbeth am stärksten mit den anderen untersuchten Indie-Bands vernetzt.
-Über die sechsjährige Zeitspanne hat sie einen Degree-Wert von 154 erreicht.
-Dies geht besonders auf viele Festivalauftritte, aber auch sonstige Kollaborationen mit fast allen Bands aus dem Netzwerk zurück.
-Schaut man sich nun zusätzlich die Zusammenarbeiten verteilt über die einzelnen Jahre an, kann mann man feststellen, dass sich die 2006 gegründete Band in den Jahren 2015-2018 immer stärker vernetzt hat.
-Und in der Tat hat die Erfolgsgeschichte von Von Wegen Lisbeth mit der engen Zusammenarbeit mit AnnenMayKantereit ab 2014 begonnen.
-Diese Zusammenarbeit lässt sich somit auch hier als eine der einzigen im Jahr 2015 erkennen.
-In diesem Jahr war Von Wegen Lisbeth bei 18 Konzerten einer AnnenMayKantereit-Tour Vorband (vgl. Von Wegen Lisbeth, 2021).
-AnnenMayKantereit bleiben auch in den nächsten Jahren ein steter Begleiter von Von Wegen Lisbeth.
-Diese beginnen sich dennoch auch mit anderen Bands stark zu vernetzen.
-So sind 2016 schon viel mehr Kollaborationen erkennbar, die insbesondere von gemeinsamen Festivalauftritten herrühren.
-Besonders auffällig eng vernetzt sind Von Wegen Lisbeth 2016 mit Giant Rooks.
-2017 sind diese ebenfalls am engsten an Von Wegen Lisbeth, gemeinsam mit Milliarden, Kraftklub und Fil Bo Riva.
-2018 wird selbst dieses aufgedröselte Teilnetzwerk wieder sehr unübersichtlich, da Von Wegen Lisbeth äußerst aktiv ist.
-Neben den genannten Akteuren werden nun auch Leoniden und Bosse häufig auf den selben Bühnen gesehen.
-2019 nehmen die Kollaborationen dann wieder ab.
-Insbesondere sind Von Wegen Lisbeth jetzt mit ihrer neuen Platte unterwegs und kollaborieren in dieser Zeit fast nur mit Vorbands (vgl. Von Wegen Lisbeth, 2021).
-Aus unserer Untersuchung sind das insbesondere Milliarden und Blond.
-Blond prägt auch unsere Untersuchung für das Jahr 2020 am stärksten.
-Dort erscheint das von Blond initiierte Feature „Sanifair Millionär", bei dem unter anderem Von Wegen Lisbeth, Drangsal, Rikas, Leoniden und Fibel mitwirken. Ansonsten hat Von Wegen Lisbeth 2020 aufgrund der Pandemie kaum Kollaborationen vorzuweisen. Es scheint, dass eine Band wie Von Wegen Lisbeth in den ersten Jahren des Erfolgs (2015-2018) viele Verbindungen zu ähnlichen Bands aufbaut, viel spielt und viel unterwegs ist. Mit dem größeren Erfolg, den die Band 2019 erreicht, kann sie sich leisten, eigene Vorbands dazuzuholen, weniger Festivals zu spielen und musikalische Projekte mit anderen Bands einzugehen. Die bloße Masse an Kollaborationen nimmt hierdurch aber ab.
+Wie sich herausgestellt hat, ist die Band Von Wegen Lisbeth am stärksten mit den anderen untersuchten Indie-Bands vernetzt. Über die sechsjährige Zeitspanne hat sie einen Degree-Wert von 154 erreicht. Dies geht besonders auf viele Festivalauftritte, aber auch sonstige Kollaborationen mit fast allen Bands aus dem Netzwerk zurück. Schaut man sich nun zusätzlich die Zusammenarbeiten verteilt über die einzelnen Jahre an, kann mann man feststellen, dass sich die 2006 gegründete Band in den Jahren 2015-2018 immer stärker vernetzt hat. Und in der Tat hat die Erfolgsgeschichte von Von Wegen Lisbeth mit der engen Zusammenarbeit mit AnnenMayKantereit ab 2014 begonnen. Diese Zusammenarbeit lässt sich somit auch hier als eine der einzigen im Jahr 2015 erkennen. In diesem Jahr war Von Wegen Lisbeth bei 18 Konzerten einer AnnenMayKantereit-Tour Vorband (vgl. Von Wegen Lisbeth, 2021). AnnenMayKantereit bleiben auch in den nächsten Jahren ein steter Begleiter von Von Wegen Lisbeth. Diese beginnen sich dennoch auch mit anderen Bands stark zu vernetzen. So sind 2016 schon viel mehr Kollaborationen erkennbar, die insbesondere von gemeinsamen Festivalauftritten herrühren. Besonders auffällig eng vernetzt sind Von Wegen Lisbeth 2016 mit Giant Rooks. 2017 sind diese ebenfalls am engsten an Von Wegen Lisbeth, gemeinsam mit Milliarden, Kraftklub und Fil Bo Riva. 2018 wird selbst dieses aufgedröselte Teilnetzwerk wieder sehr unübersichtlich, da Von Wegen Lisbeth äußerst aktiv ist. Neben den genannten Akteuren werden nun auch Leoniden und Bosse häufig auf den selben Bühnen gesehen. 2019 nehmen die Kollaborationen dann wieder ab. Insbesondere sind Von Wegen Lisbeth jetzt mit ihrer neuen Platte unterwegs und kollaborieren in dieser Zeit fast nur mit Vorbands (vgl. Von Wegen Lisbeth, 2021). Aus unserer Untersuchung sind das insbesondere Milliarden und Blond. Blond prägt auch unsere Untersuchung für das Jahr 2020 am stärksten. Dort erscheint das von Blond initiierte Feature „Sanifair Millionär", bei dem unter anderem Von Wegen Lisbeth, Drangsal, Rikas, Leoniden und Fibel mitwirken. Ansonsten hat Von Wegen Lisbeth 2020 aufgrund der Pandemie kaum Kollaborationen vorzuweisen. Es scheint, dass eine Band wie Von Wegen Lisbeth in den ersten Jahren des Erfolgs (2015-2018) viele Verbindungen zu ähnlichen Bands aufbaut, viel spielt und viel unterwegs ist. Mit dem größeren Erfolg, den die Band 2019 erreicht, kann sie sich leisten, eigene Vorbands dazuzuholen, weniger Festivals zu spielen und musikalische Projekte mit anderen Bands einzugehen. Die bloße Masse an Kollaborationen nimmt hierdurch aber ab.
 
 ## 4.4 Zusammenhang zwischen Degree-Wert und Spotify/Instagram
 
-Im folgenden werden die einzelnen Künstler:innen und Bands hinsichtlich Degree-Wert, Spotify-Hörer:innen und Instagram-Follower:innen miteinander verglichen.
-Zudem wird überprüft, ob ein Zusammenhang zwischen den einzelnen Kategorien besteht.
+Im folgenden werden die einzelnen Künstler:innen und Bands hinsichtlich Degree-Wert, Spotify-Hörer:innen und Instagram-Follower:innen miteinander verglichen. Zudem wird überprüft, ob ein Zusammenhang zwischen den einzelnen Kategorien besteht.
 
 ```{r Zusammenhang höchster Degree-Wert mit Spotify-Hörer:innen bzw. Instagram Follower:innen}
 
@@ -925,8 +835,7 @@ plot(dindie)
 | 35    | Stereo Total          | Fibel                 | Lisa Morgenstern         |
 +-------+-----------------------+-----------------------+--------------------------+
 
-Den höchsten Degree-Wert hat wie bereits festgestellt die Band Von Wegen Lisbeth mit einem Wert von 154, gefolgt von AnnenMayKantereit mit 117 und Leoniden mit 107.
-Vergleicht man alle Bands und Künstler:innen anhand ihres Degree-Werts, den Spotify-Hörer:innen sowie Instagram-Follower:innen, ergeben sich unter anderem folgende Auffälligkeiten:
+Den höchsten Degree-Wert hat wie bereits festgestellt die Band Von Wegen Lisbeth mit einem Wert von 154, gefolgt von AnnenMayKantereit mit 117 und Leoniden mit 107. Vergleicht man alle Bands und Künstler:innen anhand ihres Degree-Werts, den Spotify-Hörer:innen sowie Instagram-Follower:innen, ergeben sich unter anderem folgende Auffälligkeiten:
 
 -   AnnenMayKantereit befindet sich bei allen drei Kategorien auf Platz 1 oder 2
 -   viele Bands spielen sich komplett im unteren Drittel der Tabelle ab, was einen Zusammenhang bedeuten kann
@@ -940,129 +849,61 @@ Vergleicht man alle Bands und Künstler:innen anhand ihres Degree-Werts, den Spo
 
 ## Fazit
 
-Die hier vorgenommene Netzwerkanalyse erschließt sich nur, wenn Teilaspekte betrachtet werden.
-Der Blick auf das große Ganze eröffnet bei 1.078 Verbindungen zwischen Indie-Künstler:innen kaum Erkenntnisse.
-Dies liegt auch an der sehr engen Vernetzung und einer Dichte von rund 181 Prozent.
-Deutlich ersichtlich wird bei der Vernetzung aber die große Bedeutung von Festivals in der Indie-Szene.
-Hier begegneten sich Indie-Künstler:innen am häufigsten.
-Labels teilen sie sich hingegen eher wenige, da auch viele kleine Labels in der Szene zu finden sind.
-Auch Features und gemeinsame Songs spielen in der Szene eine untergeordnete Rolle, wie sich aus unserer Forschung ergibt.
-Insbesondere deshalb ist das Feature „Sanifair Millionär" mit ganzen 17 Künstler:innen hervorzuheben. Unsere Forschung lässt eine mit den Jahren zunehmende Vernetzung erkennen, die 2017 ihren Höhepunkt findet und 2020 durch die Corona-Pandemie drastisch nach unten gedrückt wird.
+Die hier vorgenommene Netzwerkanalyse erschließt sich nur, wenn Teilaspekte betrachtet werden. Der Blick auf das große Ganze eröffnet bei 1.078 Verbindungen zwischen Indie-Künstler:innen kaum Erkenntnisse. Dies liegt auch an der sehr engen Vernetzung und einer Dichte von rund 181 Prozent. Deutlich ersichtlich wird bei der Vernetzung aber die große Bedeutung von Festivals in der Indie-Szene. Hier begegneten sich Indie-Künstler:innen am häufigsten. Labels teilen sie sich hingegen eher wenige, da auch viele kleine Labels in der Szene zu finden sind. Auch Features und gemeinsame Songs spielen in der Szene eine untergeordnete Rolle, wie sich aus unserer Forschung ergibt. Insbesondere deshalb ist das Feature „Sanifair Millionär" mit ganzen 17 Künstler:innen hervorzuheben. Unsere Forschung lässt eine mit den Jahren zunehmende Vernetzung erkennen, die 2017 ihren Höhepunkt findet und 2020 durch die Corona-Pandemie drastisch nach unten gedrückt wird.
 
-Die zunehmende und zum Jahr 2020 wieder abnehmende Vernetzung zeigte sich besonders übersichtlich am Beispiel der Band Von Wegen Lisbeth.
-Sie hatte sich besonders im von uns beschriebenen Zeitraum entwickelt und damit die stärkste Vernetzung aufgebaut.
-Es gibt in der Indie-Szene offensichtlich sehr zentrale, populäre Akteure wie Von Wegen Lisbeth und AnnenMayKantereit, die die Bands und Künstler:innen der Szene entscheidend miteinander vernetzen.
-AnnenMayKantereit ist nämlich auch in den Kennzahlen auf Spotify und Instagram eine führende Band und könnte damit als ein führender Akteur der Indie-Szene bezeichnet werden.
+Die zunehmende und zum Jahr 2020 wieder abnehmende Vernetzung zeigte sich besonders übersichtlich am Beispiel der Band Von Wegen Lisbeth. Sie hatte sich besonders im von uns beschriebenen Zeitraum entwickelt und damit die stärkste Vernetzung aufgebaut. Es gibt in der Indie-Szene offensichtlich sehr zentrale, populäre Akteure wie Von Wegen Lisbeth und AnnenMayKantereit, die die Bands und Künstler:innen der Szene entscheidend miteinander vernetzen. AnnenMayKantereit ist nämlich auch in den Kennzahlen auf Spotify und Instagram eine führende Band und könnte damit als ein führender Akteur der Indie-Szene bezeichnet werden.
 
 Im Folgenden werden unsere anfangs aufgestellten Thesen überprüft:
 
 a)  Auftritte: Akteure, die oft auf den gleichen Festivals aufgetreten sind, haben eher ein gemeinsames Feature und haben eher gemeinsame Auftritte oder sind die Vorband des jeweils anderen Akteurs.
 
-Die erste Hypothese lässt sich weder bewahrheiten noch verneinen.
-Durch unsere riesige Menge an Daten haben wir uns entschieden, bei einem One-Mode-Netzwerk zu bleiben und die Festivals nicht als Knoten einzuführen.
-Daher sind zwar Festivalverbindungen an sich erkennbar, diese lassen sich jedoch nicht auf einzelne Festivals zurückführen, weshalb nicht überprüfbar ist, ob Bands, die auf demselben Festival waren, auch eher gemeinsame Aufritte haben.
+Die erste Hypothese lässt sich weder bewahrheiten noch verneinen. Durch unsere riesige Menge an Daten haben wir uns entschieden, bei einem One-Mode-Netzwerk zu bleiben und die Festivals nicht als Knoten einzuführen. Daher sind zwar Festivalverbindungen an sich erkennbar, diese lassen sich jedoch nicht auf einzelne Festivals zurückführen, weshalb nicht überprüfbar ist, ob Bands, die auf demselben Festival waren, auch eher gemeinsame Aufritte haben.
 
 b)  Vernetzung: Akteure, die viele Instagram-Follower:innen und Spotify-Hörer:innen haben, sind auch gut mit anderen Akteuren vernetzt.
 
-Unsere zweite Hypothese über den Zusammenhang zwischen Degree-Wert und Instagram-Follower:innen bzw.
-Spotify-Hörer:innen lässt sich bestätigen.
-Mit einigen Ausnahmen kann man sagen, dass die Künstler:innen, die sich im oberen bzw.
-unteren Drittel der Degree-Werte aufhalten, sich auch gleichermaßen bei den Spotify- und Instagram-Zahlen im jeweiligen Drittel einordnen.
+Unsere zweite Hypothese über den Zusammenhang zwischen Degree-Wert und Instagram-Follower:innen bzw. Spotify-Hörer:innen lässt sich bestätigen. Mit einigen Ausnahmen kann man sagen, dass die Künstler:innen, die sich im oberen bzw. unteren Drittel der Degree-Werte aufhalten, sich auch gleichermaßen bei den Spotify- und Instagram-Zahlen im jeweiligen Drittel einordnen.
 
 c)  Durch den zeitliche Verlauf wollen wir die Entwicklung der Vernetzung des Gesamtneztwerkes aufzeigen. Anhand dessen könnten auch einzelne Akteure herausstechen, die sich über die Jahre besser vernetzt haben.
 
-Durch das Aufteilen des Gesamtnetzwerkes nach Jahren lassen sich wie erwartet spannende Entwicklungen beobachten, besonders wenn man die Künstler:innen im einzelnen betrachtet.
-Die Band Kraftklub zum Beispiel hatte 2017-2018 ein Hoch und spielte auf beachtlich vielen Festivals, zog sich die Jahre danach dann aber komplett zurück.
+Durch das Aufteilen des Gesamtnetzwerkes nach Jahren lassen sich wie erwartet spannende Entwicklungen beobachten, besonders wenn man die Künstler:innen im einzelnen betrachtet. Die Band Kraftklub zum Beispiel hatte 2017-2018 ein Hoch und spielte auf beachtlich vielen Festivals, zog sich die Jahre danach dann aber komplett zurück.
 
 d)  Die Band mit dem höchsten Degree-Wert ist auch mit allen anderne Bands bzw. Künstler:innen vernetzt.
 
-Die letzte Hypothese hat sich als richtig herausgestellt.
-Von Wegen Lisbeth ist die Band mit dem höchsten Degree-Wert und gleichzeitig mit allen anderen vernetzt.
+Die letzte Hypothese hat sich als richtig herausgestellt. Von Wegen Lisbeth ist die Band mit dem höchsten Degree-Wert und gleichzeitig mit allen anderen vernetzt.
 
 ## Limitationen
 
-Unsere Forschung muss aus unterschiedlichen Gründen mit deutlichen Einschränkungen analysiert werden.
-Zur Erfassung von Zusammenarbeiten in Form von Festivals, Labels, gemeinsamen Auftritten und Features stand uns nur eine lückenhafte Datenbasis zur Verfügung.
-Unsere Quellen waren die Webseiten der Bands, Künstler:innen, Festivals und Labels, lokale Berichterstattung, Musikmagazine und Übersichtsseiten für Festival-Line-Ups.
-Eine professionelle und sichere Plattform, die alle benötigten Informationen bereitstellt, gab es nicht.
-Es ist also nicht auszuschließen, dass Akteure und Verbindungen in unserem Netzwerk fehlen.
-Außerdem haben wir nur Bands und Künstler:innen untersucht, die in den vergangenen fünf Jahren auf den größten deutschen Festivals vertreten waren.
-Theoretisch wäre aber denkbar, dass es Bands oder Künstler:innen gibt, die gut in der Indie-Szene vernetzt sind, aber gar nicht auf großen Festivals auftreten.
-Auch diese würden in unserer Netzwerkforschung nicht erfasst.
-Zudem sind unsere Erkenntnisse dadurch beschränkt, dass nur die vergangenen fünf Jahre untersucht wurden.
-Indie-Bands oder Künstler:innen, die für die Szene von großer Bedeutung sein könnten, aber nur davor auf Festivals auftraten, wurden nicht erfasst.
-Darüber hinaus ist die Abgrenzung der Indie-Szene unklar.
-Zwar haben wir hierzu Einschätzungen aus Musikmagazinen herangezogen und so Bands und Künstler:innen der Szene zugeordnet, mangels klarer Definition gibt es aber auch hier Spielraum für andere Auslegungen.
-Zuletzt stellt das Ausnahmejahr 2020 eine Einschränkung dieser Netzwerkforschung dar.
-Erkenntnisse aus unserem Netzwerk lassen sich kaum auf andere Sechs-Jahres-Zyklen übertragen.
-2020 fanden kaum Veranstaltungen statt - auch Kollaborationen wurden hierdurch stark eingeschränkt und unser Netzwerk beschreibt im letzten Jahr eine Ausnahmesituation, die so mit den Vorjahren nicht vergleichbar ist.
+Unsere Forschung muss aus unterschiedlichen Gründen mit deutlichen Einschränkungen analysiert werden. Zur Erfassung von Zusammenarbeiten in Form von Festivals, Labels, gemeinsamen Auftritten und Features stand uns nur eine lückenhafte Datenbasis zur Verfügung. Unsere Quellen waren die Webseiten der Bands, Künstler:innen, Festivals und Labels, lokale Berichterstattung, Musikmagazine und Übersichtsseiten für Festival-Line-Ups. Eine professionelle und sichere Plattform, die alle benötigten Informationen bereitstellt, gab es nicht. Es ist also nicht auszuschließen, dass Akteure und Verbindungen in unserem Netzwerk fehlen. Außerdem haben wir nur Bands und Künstler:innen untersucht, die in den vergangenen fünf Jahren auf den größten deutschen Festivals vertreten waren. Theoretisch wäre aber denkbar, dass es Bands oder Künstler:innen gibt, die gut in der Indie-Szene vernetzt sind, aber gar nicht auf großen Festivals auftreten. Auch diese würden in unserer Netzwerkforschung nicht erfasst. Zudem sind unsere Erkenntnisse dadurch beschränkt, dass nur die vergangenen fünf Jahre untersucht wurden. Indie-Bands oder Künstler:innen, die für die Szene von großer Bedeutung sein könnten, aber nur davor auf Festivals auftraten, wurden nicht erfasst. Darüber hinaus ist die Abgrenzung der Indie-Szene unklar. Zwar haben wir hierzu Einschätzungen aus Musikmagazinen herangezogen und so Bands und Künstler:innen der Szene zugeordnet, mangels klarer Definition gibt es aber auch hier Spielraum für andere Auslegungen. Zuletzt stellt das Ausnahmejahr 2020 eine Einschränkung dieser Netzwerkforschung dar. Erkenntnisse aus unserem Netzwerk lassen sich kaum auf andere Sechs-Jahres-Zyklen übertragen. 2020 fanden kaum Veranstaltungen statt - auch Kollaborationen wurden hierdurch stark eingeschränkt und unser Netzwerk beschreibt im letzten Jahr eine Ausnahmesituation, die so mit den Vorjahren nicht vergleichbar ist.
 
 ## Ausblick
 
-Bei der Vorrecherche ist aufgefallen, dass Netzwerke in der Musikszene kaum erforscht werden.
-Um die Fragen: Wie werden Bands erfolgreich?
-Welche Synergien können Bands nutzen?
-Wie hat sich die Struktur von Musikszenen entwickelt?
-zu klären, wäre die Netzwerkforschung aber durchaus ein probates Mittel.
-Die Forschung über Zusammenarbeiten in der Musik könnte auf andere Genres und Zeiträume übertragen werden.
-Hier bieten sich auch Vergleiche zur Indie-Szene an.
-Auch im kleineren, weniger kommerziellen Rahmen wäre eine tiefere Forschung möglich, um festzustellen wo Künstler:innen auftreten müssen und mit wem sie zusammenarbeiten müssen um erfolgreich zu sein.
+Bei der Vorrecherche ist aufgefallen, dass Netzwerke in der Musikszene kaum erforscht werden. Um die Fragen: Wie werden Bands erfolgreich? Welche Synergien können Bands nutzen? Wie hat sich die Struktur von Musikszenen entwickelt? zu klären, wäre die Netzwerkforschung aber durchaus ein probates Mittel. Die Forschung über Zusammenarbeiten in der Musik könnte auf andere Genres und Zeiträume übertragen werden. Hier bieten sich auch Vergleiche zur Indie-Szene an. Auch im kleineren, weniger kommerziellen Rahmen wäre eine tiefere Forschung möglich, um festzustellen wo Künstler:innen auftreten müssen und mit wem sie zusammenarbeiten müssen um erfolgreich zu sein.
 
 # 6. Literatur und Quellen
 
 ## 6.1 Literatur
 
-Bundesverband der Konzert und Veranstaltungswirtschaft.
-(2020).
-Musikwirtschaft in Deutschland 2020.
-Abgerufen von <https://bdkv.de/marktstudien/>
+Bundesverband der Konzert und Veranstaltungswirtschaft. (2020). Musikwirtschaft in Deutschland 2020. Abgerufen von <https://bdkv.de/marktstudien/>
 
-Goethe Institut.
-(2016).
-Indie-Musiklabels in Deutschland - Alternative zum Mainstream.
-Abgerufen von <https://www.goethe.de/de/kul/mus/20805417.html>
+Goethe Institut. (2016). Indie-Musiklabels in Deutschland - Alternative zum Mainstream. Abgerufen von <https://www.goethe.de/de/kul/mus/20805417.html>
 
-Musik3000.
-(2020).
-Blond feiern „Sanifair Millionär Cypher" mit vielen bekannten Features. Abgerufen von <http://musik3000.de/blond-feiern-sanifair-millionaer-cypher-mit-vielen-bekannten-features/>
+Musik3000. (2020). Blond feiern „Sanifair Millionär Cypher" mit vielen bekannten Features. Abgerufen von <http://musik3000.de/blond-feiern-sanifair-millionaer-cypher-mit-vielen-bekannten-features/>
 
-Nagel, D.
-(2019).
-Die fünf wichtigsten Showcase Festivals---Tipps für Musiker und Bands---Backstage PRO. Abgerufen von <http://www.backstagepro.de/thema/die-fuenf-wichtigsten-showcase-festivals-2019-03-28-1FXjg47yQr>
+Nagel, D. (2019). Die fünf wichtigsten Showcase Festivals---Tipps für Musiker und Bands---Backstage PRO. Abgerufen von <http://www.backstagepro.de/thema/die-fuenf-wichtigsten-showcase-festivals-2019-03-28-1FXjg47yQr>
 
-Noka, J.
-(9. Juli 2019).
-Das Geschäft mit Social Media: Die Musikbranche passt sich an!.
-Media Bubble.
-Abgerufen von <https://media-bubble.de/das-geschaeft-mit-social-media-die-musikbranche-passt-sich-an/>
+Noka, J. (9. Juli 2019). Das Geschäft mit Social Media: Die Musikbranche passt sich an!. Media Bubble. Abgerufen von <https://media-bubble.de/das-geschaeft-mit-social-media-die-musikbranche-passt-sich-an/>
 
-Schöbel, N.
-(23. August 2016) Social Media für Musiker: 23 Fragen zum Erfolg \| MUSIK MARKETING. MUSIK-MARKETING.NET. Abgerufen von <https://musik-marketing.net/schildhauer-social-media-musiker/>
+Schöbel, N. (23. August 2016) Social Media für Musiker: 23 Fragen zum Erfolg \| MUSIK MARKETING. MUSIK-MARKETING.NET. Abgerufen von <https://musik-marketing.net/schildhauer-social-media-musiker/>
 
-Seawood, L. W.
-(2016).
-What Instagram Discovered in Our First Nielsen Music Study.
-Medium.
-Abgerufen von: <https://medium.com/cuepoint/what-instagram-discovered-in-our-first-nielsen-music-study-de1a2740c005>
+Seawood, L. W. (2016). What Instagram Discovered in Our First Nielsen Music Study. Medium. Abgerufen von: <https://medium.com/cuepoint/what-instagram-discovered-in-our-first-nielsen-music-study-de1a2740c005>
 
-Von Wegen Lisbeth (2021).
-Konzerte.
-Abgerufen von <https://www.vonwegenlisbeth.de/konzerte/>
+Von Wegen Lisbeth (2021). Konzerte. Abgerufen von <https://www.vonwegenlisbeth.de/konzerte/>
 
-VUT (2021).
-Über den VUT: VUT - Verband unabhängiger Musikunternehmer\*innen e.
-V. Abgerufen von <https://www.vut.de/vut/ueber-den-vut/>
+VUT (2021). Über den VUT: VUT - Verband unabhängiger Musikunternehmer\*innen e. V. Abgerufen von <https://www.vut.de/vut/ueber-den-vut/>
 
-Winkler, S.
-(2. März 2020).
-Wie Genres immer diffuser werden -- außer im deutschen Pop.
-DIE WELT. Abgerufen von <https://www.welt.de/kmpkt/article206099115/Wie-Genres-immer-diffuser-werden-ausser-im-deutschen-Pop.html>
+Winkler, S. (2. März 2020). Wie Genres immer diffuser werden -- außer im deutschen Pop. DIE WELT. Abgerufen von <https://www.welt.de/kmpkt/article206099115/Wie-Genres-immer-diffuser-werden-ausser-im-deutschen-Pop.html>
 
-Wischmeyer, N.
-(2018).
-Inside Indie -- nicht das Ende vom Lied.
-brand eins online.
-Abgerufen von <https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/personal/independent-label-inside-indie-nicht-das-ende-vom-lied>
+Wischmeyer, N. (2018). Inside Indie -- nicht das Ende vom Lied. brand eins online. Abgerufen von <https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/personal/independent-label-inside-indie-nicht-das-ende-vom-lied>
 
 ## 6.2 Vollständige Liste unserer Quellen bei der Datenerhebung
 
@@ -1679,17 +1520,14 @@ Das Netzwerk hat nach dem [Codebuch](https://github.com/lz029/226305-SNA-WS-21-2
 
 **id**\
 (eindeutige Codierung des Knoten)\
-codiert nach den ersten vier Buchstaben der Künstler:innen und Bands, jede ID entspricht einem/einer Künstler:in bzw
-. Ban
-d
+codiert nach den ersten vier Buchstaben der Künstler:innen und Bands, jede ID entspricht einem/einer Künstler:in bzw . Ban d
 
 **weight**\
 Beziehungsstärke\
 4 = Feature (Gemeinsamer Song)\
 3 = Gemeinsam auf Tour / gemeinsame Auftritte / Support\
 2 = gemeinsames Musiklabel\
-1 = Selbes Fest
-ival
+1 = Selbes Fest ival
 
 **time**\
 Jahreszahl der Kooperation als YYYY
@@ -1730,30 +1568,18 @@ Die Vertex-Attribute treffen auf alle Knoten zu.
 
 ### Teammitglieder
 
-Silas Schwab (ss502) \
-Fabienne Schackert (fs138) \
-Lena Klasen (lk158) \
-Lioba Zangenfeind (lz029) \
-Selina Hellfritsch (sh3
-08)
+Silas Schwab (ss502)\
+Fabienne Schackert (fs138)\
+Lena Klasen (lk158)\
+Lioba Zangenfeind (lz029)\
+Selina Hellfritsch (sh3 08)
 
 ### Arbeitsaufwand und Rollen im Team
 
-In unserem Team gab es keine klare Rollenverteilung.
-Wir haben alle an allem gearbeitet und die Aufgaben immer gerecht untereinander aufgeteilt.
-Hierzu haben wir uns seit Beginn des vierten Semesters wöchentlich getroffen, um in einer Co-Working-Atmosphäre miteinander zu arbeiten und uns bei Problemen direkt austauschen zu können.
-Neben diesen wöchtentlichen Treffen hat jede:r von uns mehrere Tage in die Datenerhebung gesteckt.
-Generell wurde seit Beginn des Jahres, also auch schon vor dem vierten Semester, regelmäßig Zeit in das Projekt gesteckt.
+In unserem Team gab es keine klare Rollenverteilung. Wir haben alle an allem gearbeitet und die Aufgaben immer gerecht untereinander aufgeteilt. Hierzu haben wir uns seit Beginn des vierten Semesters wöchentlich getroffen, um in einer Co-Working-Atmosphäre miteinander zu arbeiten und uns bei Problemen direkt austauschen zu können. Neben diesen wöchtentlichen Treffen hat jede:r von uns mehrere Tage in die Datenerhebung gesteckt. Generell wurde seit Beginn des Jahres, also auch schon vor dem vierten Semester, regelmäßig Zeit in das Projekt gesteckt.
 
-Wir haben unsere Zeiten nie protokolliert, weshalb wir keine Stundenzahl aufschreiben könnten, die verlässlich wäre.
-Wir haben viel Zeit investiert und waren gefordert, haben aber sehr gut im Team zusammengearbeitet und alle gleich viel Aufwand in das Projekt gesteckt.
+Wir haben unsere Zeiten nie protokolliert, weshalb wir keine Stundenzahl aufschreiben könnten, die verlässlich wäre. Wir haben viel Zeit investiert und waren gefordert, haben aber sehr gut im Team zusammengearbeitet und alle gleich viel Aufwand in das Projekt gesteckt.
 
-### Lessons learned
+### Lessons Learned
 
-Wir haben besonders am Anfang die Arbeit sehr unterschätzt.
-Wir haben nicht lange genug über das enorme Ausmaß unserer Datenerhebung nachgedacht und viel zu viele Daten erhoben.
-Die Datenerhebung werden wir somit beim nächsten Mal gut überlegt angehen und uns im Voraus mehr Gedanken darüber machen, in welcher Dimension wir die Daten erheben.
-Ansonsten haben wir gelernt, dass gute Arbeitsaufteilung und Strukturierung wichtig sind.
-Jede:r hatte von Anfang an sein:ihr Aufgabengebiet, was ideal war.
-Durch wöchentliche Treffen konnten wir uns im Co-Working-Space gegenseitig unterstützen, blieben kontinuierlich am Ball und konnten uns ein stressiges Ende bewahren, da wir im Voraus bereits viel gearbeitet hatten.
-Was R angeht hatten wir unsere Schwierigkeiten, haben aber gelernt, uns nicht abschrecken zu lassen und sind so zu einem für uns zufriedenstellenden Ergebnis gekommen.
+Wir haben besonders am Anfang die Arbeit sehr unterschätzt. Wir haben nicht lange genug über das enorme Ausmaß unserer Datenerhebung nachgedacht und viel zu viele Daten erhoben. Die Datenerhebung werden wir somit beim nächsten Mal gut überlegt angehen und uns im Voraus mehr Gedanken darüber machen, in welcher Dimension wir die Daten erheben. Ansonsten haben wir gelernt, dass gute Arbeitsaufteilung und Strukturierung wichtig sind. Jede:r hatte von Anfang an sein:ihr Aufgabengebiet, was ideal war. Durch wöchentliche Treffen konnten wir uns im Co-Working-Space gegenseitig unterstützen, blieben kontinuierlich am Ball und konnten uns ein stressiges Ende bewahren, da wir im Voraus bereits viel gearbeitet hatten. Was R angeht hatten wir unsere Schwierigkeiten, haben aber gelernt, uns nicht abschrecken zu lassen und sind so zu einem für uns zufriedenstellenden Ergebnis gekommen.
