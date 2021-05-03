@@ -22,9 +22,9 @@ editor_options:
 
 *Anmerkung*: Wir werden in unserem Forschungsbericht teilweise die Netzwerke neu erstellen und einlesen, damit die Datenbasis immer klar ist. Somit können wir in den einzelnen Teilnetzwerken sicherstellen, dass nur aktuelle Werte erfasst werden.
 
-**Abstract und Keywords**
+# Abstract und Keywords
 
-Gegenstand dieser Forschungsarbeit ist ein ungerichtetes One-Mode-Netzwerk, das die Beziehungen von 35 Akteuren in Form von Musiker:innen und Bands aus der Indie-Szene illustriert und in Zusammenhang stellt. Dabei untersucht wurden die Beziehungen dieser Akteure hinsichtlich gemeinsamer Auftritte auf Festivals, gemeinsamer Labels, gemeinsamer Tour- und Support-Auftritte sowie gemeinsamer Feature-Songs in den Jahren 2015 bis 2020. Darüber hinaus wurde das Netzwerk auf die einzelnen Arten der Beziehungen geprüft, alle sechs berücksichtigten Jahre wurden miteinander verglichen und der besonders auffällige Akteur Von Wegen Lisbeth wurde gesondert analysiert. \
+Gegenstand dieser Forschungsarbeit ist ein ungerichtetes One-Mode-Netzwerk, das die Beziehungen von 35 Akteuren in Form von Musiker:innen und Bands aus der Indie-Szene illustriert und in Zusammenhang stellt. Dabei untersucht wurden die Beziehungen dieser Akteure hinsichtlich gemeinsamer Auftritte auf Festivals, gemeinsamer Labels, gemeinsamer Tour- und Support-Auftritte sowie gemeinsamer Feature-Songs in den Jahren 2015 bis 2020. Darüber hinaus wurde das Netzwerk auf die einzelnen Arten der Beziehungen geprüft, alle sechs berücksichtigten Jahre wurden miteinander verglichen und der besonders auffällige Akteur Von Wegen Lisbeth wurde gesondert analysiert.\
 Auffällig geworden ist nicht nur die schier unüberschaubare Anzahl an Festival-Verbindungen, sondern auch das „Coronajahr" 2020, das sich in Anzahl der Verbindungen stark von den anderen untersuchten Jahren unterscheidet. Eine weitere Auffälligkeit stellt das 2020 erschienene Feature „Sanifair Millionär" dar, das ungewöhnlich viele Akteure miteinander in Verbindung bringt.
 
 Keywords: Netzwerkanalyse, Indie-Bands, Kollaborationen, Festivals, Labels
